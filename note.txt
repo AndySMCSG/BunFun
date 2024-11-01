@@ -1,1 +1,9 @@
 This is where we learn Bun!
+
+Copy bun to a local folder
+.bun/
+
+use bashrc to activate bun
+.bun_bashrc
+
+$ source .bun_bashrc
